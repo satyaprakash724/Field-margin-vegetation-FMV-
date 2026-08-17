@@ -1,6 +1,8 @@
 Title: Mapping and Classification of Field Margin Vegetation using High Resolution Satellite Imagery and Deep Learning Models in a Tropical Landscape
 Authors: Satya Prakash1,2*, Michael Wachendorf1, Sunil Nautiyal2, Jayan Wijesingha1
+
 Affiliation: 1Section of Grassland Science and Renewable Plant Resources, Faculty of Organic Agricultural Sciences, University of Kassel, Steinstraße 19, D-37213 Witzenhausen Germany
+
 2Centre for Ecological Economics and Natural Resource, Institute for Social and Economic Change, Bengaluru, India
 
 Background:
