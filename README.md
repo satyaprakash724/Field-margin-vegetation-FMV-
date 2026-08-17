@@ -10,7 +10,7 @@ Background:
 This repository contains the Python scripts used to delineate and classify field margin vegetation (FMV) in a tropical landscape. The workflow uses WorldView-3 multispectral imagery and deep-learning segmentation models, including U-Net and DeepLabV3+.
 This workflow first delineated FMV from the surrounding landscape and then classifies the detected vegetation into woody and non-woody FMV.
 
-This repository has three script files:
+This repository contains three script files:
 1. FMV Semantic Segmentation
 2. FMV Woody and non-woody classification
 3. FMV mapping interpretation using GradCAM 
