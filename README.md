@@ -12,7 +12,9 @@ This workflow first delineated FMV from the surrounding landscape and then class
 
 Associated publication:
 These scripts accompany the following research article:
+
 Prakash, S., et al. (2026). Mapping and Classification of Field Margin Vegetation using High Resolution Satellite Imagery and Deep Learning Models in a Tropical Landscape.
+
 DOI: To be added after publication.
 
 Workflow:
@@ -50,7 +52,9 @@ The scripts were developed using Python 3.8.10 (Jupyter lab) and require:
 
 Data availability:
 The WorldView-3 imagery used in this study was obtained under a commercial data licence and therefore cannot be redistributed through this repository.
+
 Users wishing to reproduce the complete workflow must obtain suitable high-resolution satellite imagery independently and update the input paths and configuration parameters accordingly.
+
 The repository provides the processing, model-training, prediction, and evaluation scripts. Any example data, reference annotations, trained model weights, or derived products are shared only where permitted by the applicable data licence.
 
 Citation:
